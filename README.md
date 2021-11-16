@@ -1,6 +1,6 @@
 ## Celular Automata
 
-**More about**[ Celular Automata:](https://en.wikipedia.org/wiki/Cellular_automaton)
+More about [Celular Automata:](https://en.wikipedia.org/wiki/Cellular_automaton)
 
 **More Specific about Game Of Life**
 
