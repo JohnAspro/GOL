@@ -8,7 +8,7 @@ Just Google Game Of Life
 
 **The Program**
 
-A simple C+sdl intepretation of the Game of Life. The user can hard code how many entities can exist and how dense the starting
+A simple C intepretation of the Game of Life using the SDL framework. The user can hard code how many entities can exist and how dense the starting
 population is. Also you can pause the game or click to a block to make it alive. 
 
 Make sure to have sdl installed.
